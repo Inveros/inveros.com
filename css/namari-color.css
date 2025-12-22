@@ -135,7 +135,7 @@ a:hover, #header.nav-solid nav a:hover {
 
 
 body {
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'Public Sans', sans-serif, Arial, Helvetica;
 	font-size: 15px;
 	font-weight: normal;
 	color: #111;
@@ -181,14 +181,14 @@ body {
 /* Section Title and Subtitle */
 
 .section-title {
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'Public Sans', sans-serif, Arial, Helvetica;
 	font-size: 34px;
 	font-weight: 700;
 	color: #030E3A;
 }
 
 .section-subtitle {
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'Public Sans', sans-serif, Arial, Helvetica;
 	font-size: 16px;
 	font-weight: 300;
 	color: #9c9c9c;
@@ -197,7 +197,7 @@ body {
 /* Testimonial */
 
 .testimonial q {
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'Public Sans', sans-serif, Arial, Helvetica;
 	font-size: 17px;
 	font-weight: 300;
 }
@@ -210,14 +210,14 @@ body {
 /* Standard Headings h1-h6 */
 
 h1 {
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'Public Sans', sans-serif, Arial, Helvetica;
 	font-size: 40px;
 	font-weight: 300;
 	color: #111;
 }
 
 h2 {
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'Public Sans', sans-serif, Arial, Helvetica;
 	font-size: 34px;
 	font-weight: 300;
 	color: #111;
@@ -290,7 +290,7 @@ h6 {
 /* Button Text */
 
 #banner .button {
-	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: 'Public Sans', sans-serif, Arial, Helvetica;
 	font-size: 16px;
 	color: #111;
 }
