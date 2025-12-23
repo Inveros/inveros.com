@@ -18,7 +18,7 @@
 @media (max-width: 991px) {
   .section-title {
     font-size: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
   }
   .services-item .services-content h3 a {
     font-size: 14px;
@@ -35,7 +35,7 @@
 @media (min-width: 768px) and (max-width: 991px) {
   .section-title {
     font-size: 26px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
   }
   .services-item .services-content h3 a {
     font-size: 16px;
@@ -83,7 +83,7 @@
   }
   .section-title {
     font-size: 22px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
   }
   .title-hl {
     font-size: 22px;
