@@ -216,7 +216,7 @@ section {
     padding: 10px;
 }
 
-#clients .col-2-3 [class*='col-'] {
+#channels .col-2-3 [class*='col-'] {
     padding: 0;
 }
 
@@ -1384,7 +1384,7 @@ blockquote {
 
 /* --------- 6.6 Clients ---------- */
 
-#clients a {
+#channels a {
     display: block;
     text-align: center;
     position: relative;
@@ -1393,7 +1393,7 @@ blockquote {
     color: #fff;
 }
 
-#clients img {
+#channels img {
     display: inline-block;
     padding: 15px 25px;
 }
@@ -1401,8 +1401,7 @@ blockquote {
 .client-overlay {
     background: rgba(19, 126, 217, 1);
     position: absolute;
-    top;
-    0;
+    top: 0;
     right: 0;
     bottom: 0;
     left: 0;
@@ -1415,7 +1414,7 @@ blockquote {
     transition: all 0.3s ease-out;
 }
 
-#clients a:hover .client-overlay {
+#channels a:hover .client-overlay {
     opacity: 1;
 	
 }
