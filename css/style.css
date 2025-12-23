@@ -685,7 +685,11 @@ nav#nav-mobile a:hover {
 }
 
 #header .social-icons {
-    margin-top: 27px;
+    margin-top: 20px;
+}
+
+#landing-footer .social-icons {
+    margin-bottom: 10px;
 }
 
 /* --------- 2.6 Images ---------- */
